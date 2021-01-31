@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="changeable_text">изменяемый текст</string>
+    <string name="enter_text">введите текст</string>
+    <string name="enter_text_not_saved">здесь текст не сохраняется, потому что нет id</string>
+    <string name="move_text">изменить текст</string>
+</resources>
